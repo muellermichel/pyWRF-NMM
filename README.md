@@ -3,6 +3,8 @@ pyWRF-NMM
 
 Just some scripts for post processing WRF NMM model output in python. Include this scripts in your PATH and execute them when in the directory containing `wrfout*` files.
 
+![Example Mapplot](/../master/example_mapplot.png)
+
 Dependencies
 ------------
 Required: Numpy, netCDF4, matplotlib, basemap
