@@ -6,6 +6,7 @@ Just some scripts for post processing WRF NMM model output in python. Include th
 Dependencies
 ------------
 Required: Numpy, netCDF4, matplotlib, basemap
+
 Optional: ffmpeg
 
 Usage
